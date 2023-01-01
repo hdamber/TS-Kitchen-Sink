@@ -14,11 +14,11 @@
     "@types/jquery": "^3.3.33",
     "jquery": "^3.4.1",
     "node": "^13.11.0",
-    "ts-loader": "^6.2.2",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.8.3",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^5.0.1"
   },
   "devDependencies": {
-    "webpack": "^4.42.0"
+    "webpack": "^5.75.0"
   }
 }
